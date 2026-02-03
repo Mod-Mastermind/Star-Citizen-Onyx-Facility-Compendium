@@ -45,11 +45,11 @@ All data is provided freely for community use.
 
 Structure:
 /Stanton
-    Onyx-Facilities.md
-    S1-Hurston.md
-    S2-microTech.md
-    S3-ArcCorp.md
-    S4-Crusader.md
+    SC_Stanton_Master.md
+    SC_Stanton_S1_Hurston.md
+    SC_Stanton_S2_microTech.md
+    SC_Stanton_S3_ArcCorp.md
+    SC_Stanton_S4_Crusader.md
 
 /Pyro
     (Coming soon)
@@ -68,4 +68,5 @@ License:
 This project is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. You are free to share, adapt, and build upon this work for any purpose, provided that appropriate credit is given to Mod_Mastermind as the original author.
 
 For full license details, see:
+
 https://creativecommons.org/licenses/by/4.0/ (creativecommons.org in Bing)
