@@ -9,8 +9,6 @@ A note from the Author...
 
 "After months of mapping, cross‑checking, and compiling, I have created a complete atlas of all 120 Onyx facilities in the Stanton system — including coordinates, designations, terrain notes, and jurisdiction breakdowns. To my knowledge, this is the most comprehensive bunker reference chart in existence, and I am sharing it freely with the Star Citizen community. From one explorer to another."
 
-Contact: mod_mastermind@protonmail.com
-
 ****************************************************************************************************
 Designation | Jurisdiction | Body | Latitude | Longitude
 ****************************************************************************************************
@@ -93,3 +91,4 @@ S3W7 — High plateau
 S3W8 — Lowland basin
 
 Wala is smooth, mineral‑rich, and known for its floating rock formations.
+
