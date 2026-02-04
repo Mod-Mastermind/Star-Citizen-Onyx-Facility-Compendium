@@ -9,8 +9,6 @@ A note from the Author...
 
 "After months of mapping, cross‑checking, and compiling, I have created a complete atlas of all 120 Onyx facilities in the Stanton system — including coordinates, designations, terrain notes, and jurisdiction breakdowns. To my knowledge, this is the most comprehensive bunker reference chart in existence, and I am sharing it freely with the Star Citizen community. From one explorer to another."
 
-Contact: mod_mastermind@protonmail.com
-
 ****************************************************************************************************
 Designation | Jurisdiction | Body | Latitude | Longitude
 ****************************************************************************************************
@@ -143,3 +141,4 @@ S1I7 — High plateau
 S1I8 — Lowland depression
 
 Ita is a quiet, stable moon with gentle terrain compared to the rest of Hurston’s moons.
+
